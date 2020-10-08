@@ -1,12 +1,18 @@
 ---
-date: "2018-11-09"
-description: Website description.
-menu: main
-title: The Renga Theme for Hugo
+title: "Rock & Roh"
+date: "2020-10-8"
+description: "A blog aiming to provide any type of useful information for everyone"
+menu: "main"
 ---
 
-Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, [mea qualisque consetetur cu](https://nanx.me). Suspendisse volutpat sem a risus euismod convallis.
+Welcome to the blog [Rock and Roh (R&R)](/). This blog is about [statistics](/tags/statistics/), [machine learning](/tags/ML/), and [finance](/tags/finance/). Their application is done mostly through [R](/tags/r/) and [Python](/tags/python) where both of them are open source statistical software programs.
 
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro. [Erat democritum mei no](https://nanx.me), homero quodsi aliquando id mel, ridens civibus molestiae et nam.
 
-Ea eam postea facilisi. Nullam forensibus consequuntur usu ea, no ius consul delectus periculis. Eam veri numquam an. Et partiendo gubergren eam. Quod iudicabit has ex, eam diam facilisi eu, elitr aliquip no eum.
+**If you are new to this blog**, I invite you to:
+
+* See [all articles](/blog/) or [articles by categories](/tags/)
+* Learn more about [who is behind this blog](/about/)
+* Follow me on [Medium](https://medium.com/@ant.soetewey)
+* Contribute by writing a [guest post](/contribute/)
+* [Support the blog](/support/) so I can keep providing free content on an ad-free blog
+* [Contact me](/contact/) if you have any questions
