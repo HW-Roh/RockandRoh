@@ -12,7 +12,7 @@ Welcome to the blog [Rock and Roh (R&R)](/). This blog is about [statistics](/ta
 
 * See [all articles](/blog/) or [articles by categories](/tags/)
 * Learn more about [who is behind this blog](/about/)
-* Follow me on [Medium](https://medium.com/@ant.soetewey)
+* Follow me on [Medium](https://medium.com/@corr.roh)
 * Contribute by writing a [guest post](/contribute/)
 * [Support the blog](/support/) so I can keep providing free content on an ad-free blog
 * [Contact me](/contact/) if you have any questions

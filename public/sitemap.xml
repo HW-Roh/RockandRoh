@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/www.rockandroh.com/blog/post/hello-markdown/</loc>
+    <loc>/blog/post/hello-markdown/</loc>
     <lastmod>2018-11-10T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-11-10T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/</loc>
+    <loc>/</loc>
     <lastmod>2018-11-10T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/blog/post/hugo-renga-theme-demo/</loc>
+    <loc>/blog/post/hugo-renga-theme-demo/</loc>
     <lastmod>2018-11-10T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/blog/post/lorem-ipsum/</loc>
+    <loc>/blog/post/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/www.rockandroh.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

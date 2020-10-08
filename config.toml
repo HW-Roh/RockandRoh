@@ -1,4 +1,4 @@
-baseurl = "www.rockandroh.com"
+baseurl = "https://www.rockandroh.com/"
 title = "Rock and Roh"
 author = "Hyunwoo (Eric) Roh"
 canonifyurls = true
