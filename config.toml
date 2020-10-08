@@ -1,6 +1,6 @@
-baseurl = "https://nanx.me/hugo-renga/"
-title = "Hugo Renga Theme Demo"
-author = "Jane Doe"
+baseurl = "www.rockandroh.com"
+title = "Rock and Roh"
+author = "Hyunwoo (Eric) Roh"
 canonifyurls = true
 languagecode = "en"
 paginate = 3
@@ -14,10 +14,15 @@ hasCJKLanguage = true
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
+[permalinks]
+post = "/:year/:month/:day/:slug/"
+
 [params]
-pagetitle = "Jane Doe"
-copyright = "© 2018 Jane Doe"
-copyrightUrl = "https://nanx.me/hugo-renga/"
+pagetitle = "Rock and Roh"
+author = "Hyunwoo (Eric) Roh"
+copyright = "© 2020 Roh"
+copyrightUrl = "/"
+description = ""
 faviconfile = "image/favicon.png"
 logofile = "image/avatar.png"
 posts_navigation = true
@@ -25,19 +30,64 @@ uselatex = true
 highlightjs = true
 progressively = false
 
-github = "nanxstats"
-twitter = "nanxstats"
-linkedin = "nanxstats"
-email = "example@example.com"
+github = "HW-Roh"
+#twitter = "eri"
+#linkedin = "nanxstats"
+email = "metrics@kakao.com"
+medium = "corr.roh"
+
+support = "/support/"
+subscribe = "/subscribe/"
+latestpostcount = 7
+
+#[[params.best_posts]]
+#title = "Graphics in R with ggplot2"
+#url = "/blog/graphics-in-r-with-ggplot2/"
 
 [[menu.primary]]
-identifier = "about"
-name = "About"
-url = "/about/"
+identifier = "note"
+name = "Note"
+url = "/note/"
 weight = 1
 
 [[menu.primary]]
-identifier = "blog"
-name = "Blog"
-url = "/blog/"
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
 weight = 2
+
+[[menu.primary]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 3
+
+[[menu.primary]]
+identifier = "data"
+name = "data"
+url = "/data/"
+weight = 4
+
+[[menu.primary]]
+identifier = "research"
+name = "Research"
+url = "/research/"
+weight = 5
+
+[params.info]
+related = true # Includes related articles at the bottom of the article
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "date"
+        weight = 10
+
+
