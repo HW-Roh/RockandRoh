@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 pagetitle = "Rock and Roh"
 author = "Hyunwoo (Eric) Roh"
-copyright = "© 2020 Roh"
+copyright = "Roh"
 copyrightUrl = "/"
 description = "This site includes technical notes, data set, and paper reviews"
 faviconfile = "image/favicon.png"
