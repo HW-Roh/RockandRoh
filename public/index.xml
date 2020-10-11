@@ -6,7 +6,30 @@
     <description>Recent content in Rock &amp; Roh on Rock and Roh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Nov 2018 12:00:00 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Nov 2018 12:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>안녕하세요! Hello, my name is Antoine Soetewey. I am a PhD student in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on survival analysis and bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and maste</description>
+    </item>
+    
+    <item>
+      <title>Terms and policies</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/terms/</guid>
+      <description>To begin with, in terms of the template and structure, I mostly followed the version of Antonoine Soetewey which I think fits well to what I want. I would like to thank you him.
+For a contentwise, I write and edit the posts. All content provided is for informational purposes only. The articles and posts on this website are my own and do not necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries.</description>
+    </item>
+    
     <item>
       <title>A Plain Markdown Post</title>
       <link>/blog/post/hello-markdown/</link>
@@ -38,16 +61,6 @@ This is italic text</description>
       <guid>/blog/post/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 In modus congue feugait eos.</description>
-    </item>
-    
-    <item>
-      <title>About Jane</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Lorem ipsum dolor sit amet, ex has sale ullum corrumpit, sea dicam nostrum sensibus ad. Porro tritani persecuti te sed. Omittam dissentias pro ex. Atqui luptatum duo id. Eros minim eam ex, novum elitr accusam quo in. Nec ne audire euripidis, mea qualisque consetetur cu. Suspendisse volutpat sem a risus euismod convallis.
-In modus congue feugait eos. In nec nonumy volutpat corrumpit, sea assentior quaerendum no, cum affert scripta ea. No nihil voluptaria pro.</description>
     </item>
     
   </channel>

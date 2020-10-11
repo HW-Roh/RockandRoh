@@ -1,0 +1,26 @@
+---
+title: abc
+author: Roh
+date: '2020-10-10'
+slug: abc
+#categories: []
+tags:
+  - abc
+description: Description for the page.
+
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.align = "center",
+  out.width = "100%",
+)
+```
+
+# abc
+
+abc
+abc
