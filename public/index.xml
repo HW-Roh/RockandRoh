@@ -6,7 +6,6 @@
     <description>Recent content in Rock &amp; Roh on Rock and Roh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Nov 2018 12:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +16,7 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>안녕하세요! Hello, my name is Antoine Soetewey. I am a PhD student in statistics at UCLouvain (Belgium) within the Institute of Statistics, Biostatistics and Actuarial Sciences. My research interests focus on survival analysis and bio-statistical procedures applied to cancer patients. In parallel with my doctoral thesis, I am teaching assistant for several courses in statistics and probability at bachelor and maste</description>
+      <description>안녕하세요! Hello, my name is Hyunwoo Roh and you can call me Roh. After finishing the grad school and working as researcher, now I stay in Korea doing civil service for two years. My research interests focus on statistical and machine learning analysis on data related to finance industry. While studying in University of Chicago (UoC), I was a teaching assistant and grader for several</description>
     </item>
     
     <item>
@@ -28,39 +27,6 @@
       <guid>/terms/</guid>
       <description>To begin with, in terms of the template and structure, I mostly followed the version of Antonoine Soetewey which I think fits well to what I want. I would like to thank you him.
 For a contentwise, I write and edit the posts. All content provided is for informational purposes only. The articles and posts on this website are my own and do not necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/blog/post/hello-markdown/</link>
-      <pubDate>Sat, 10 Nov 2018 12:00:00 -0700</pubDate>
-      
-      <guid>/blog/post/hello-markdown/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Renga Theme Demo</title>
-      <link>/blog/post/hugo-renga-theme-demo/</link>
-      <pubDate>Sat, 10 Nov 2018 12:00:00 +0000</pubDate>
-      
-      <guid>/blog/post/hugo-renga-theme-demo/</guid>
-      <description>Renga is a Bootstrap-based minimalist theme for Hugo.
-Features  Minimalist Responsive &amp;amp; mobile-first (Bootstrap 4) Native font stack High Contrast Math typesetting (MathJaX) Syntax highlighting (highlight.js) Progressive image loading (progressively.js) Disqus Google Analytics Open Graph meta tags Twitter Cards meta tags  Typography h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
-This is bold text
-This is italic text
-This is italic text</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/blog/post/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/blog/post/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-In modus congue feugait eos.</description>
     </item>
     
   </channel>
